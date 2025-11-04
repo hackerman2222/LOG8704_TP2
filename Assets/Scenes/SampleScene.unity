@@ -665,7 +665,7 @@ GameObject:
   - component: {fileID: 232260064}
   - component: {fileID: 232260063}
   m_Layer: 5
-  m_Name: Button (Cube Debug)
+  m_Name: Button (Red Tomato)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3926,7 +3926,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1c72e2211b1ba47d7baf8d6ee5a5daf5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5be4a74a3336c354184ffa6abfdbe1f5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4274,7 +4274,7 @@ GameObject:
   - component: {fileID: 1088608628}
   - component: {fileID: 1088608627}
   m_Layer: 5
-  m_Name: Button (Cylinder)
+  m_Name: Button (Green Tomato)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5407,7 +5407,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0d77f64dcf23ba448b2a63ad6f4c50c2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ac50483860102b448807bb71330f6c0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
